@@ -1,0 +1,8 @@
+Running from within the script instead of arguments at the cmd line.
+I think I can do this
+What is happening
+Forgery
+Foolery
+Silly
+Dilly
+Dang

@@ -1,0 +1,1 @@
+Running from within the script instead of arguments at the cmd line.
