@@ -27,7 +27,7 @@ iq = divide(100, 2)
 
 print(f"Age: {age}, Height: {height}, Weight: {weight}, IQ: {iq}")
 
-#A puzzle for extra credit, type it in anyway
+# A puzzle for extra credit, type it in anyway
 print("Here is a puzzle.")
 
 what = add(age, subtract(height, multiply(weight, divide(iq, 2))))
